@@ -1,0 +1,1 @@
+# Small R project to find the nationalities of the artists and bands that I know and display them on a map, to see the spread
